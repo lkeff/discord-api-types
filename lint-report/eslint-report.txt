@@ -1,0 +1,11 @@
+ESLint Report
+
+File: c:\Users\Administrator\Documents\GitHub\discord-api-types\website\sidebars.js
+  [undefined, undefined] Parsing error: Cannot read file 'C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\tsconfig.eslint.json'. (null)
+
+File: c:\Users\Administrator\Documents\GitHub\discord-api-types\website\docusaurus.config.js
+  [undefined, undefined] Parsing error: Cannot read file 'C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\tsconfig.eslint.json'. (null)
+
+File: c:\Users\Administrator\Documents\GitHub\discord-api-types\website\babel.config.js
+  [undefined, undefined] Parsing error: Cannot read file 'C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\tsconfig.eslint.json'. (null)
+
