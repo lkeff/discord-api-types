@@ -36,7 +36,7 @@
 		"@mdx-js/react": "^1.6.22",
 		"@sapphire/docusaurus-plugin-npm2yarn2pnpm": "^1.1.0",
 		"@sapphire/docusaurus-plugin-ts2esm2cjs": "^1.1.0",
-		"@svgr/webpack": "^6.2.1",
+		"@svgr/webpack": "^6.5.1",
 		"@tippyjs/react": "^4.2.6",
 		"clsx": "^1.1.1",
 		"docusaurus-plugin-sass": "^0.2.2",
