@@ -27,9 +27,9 @@
 		"vercel-build": "npm run build"
 	},
 	"dependencies": {
-		"@docusaurus/core": "canary",
+		"@docusaurus/core": "3.8.0",
 		"@docusaurus/plugin-pwa": "canary",
-		"@docusaurus/preset-classic": "canary",
+		"@docusaurus/preset-classic": "3.8.0",
 		"@docusaurus/theme-common": "canary",
 		"@docusaurus/theme-search-algolia": "canary",
 		"@heroicons/react": "^1.0.6",
